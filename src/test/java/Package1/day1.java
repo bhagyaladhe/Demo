@@ -14,7 +14,7 @@ public class day1 {
         driver.get("https://www.googlr.com/");
         driver.quit();
 
-        System.out.println("-------------Chages by mohitttttttttttttttttttgit ------------------------");
+        System.out.println("-------------Chages by mohittttttttttttttttttttgit ------------------------");
 
 
 
