@@ -13,7 +13,7 @@ public class day1 {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.googlr.com/");
         driver.quit();
-
+        driver.getTitle();
         System.out.println("-------------Mohit -----------------------");
 
 
