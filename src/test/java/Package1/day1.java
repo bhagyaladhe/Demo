@@ -12,7 +12,7 @@ public class day1 {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.pom.com/");
         driver.quit();
-        System.out.println("------------Priyanks------------------------");
+        System.out.println("------------Priyanka------------------------");
 
     }
 }
