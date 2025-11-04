@@ -14,19 +14,13 @@ public class day1 {
         driver.get("https://www.googlr.com/");
         driver.quit();
 
-        System.out.println("-------------Mohit Changes------------------------");
+        System.out.println("-------------Mohit Changes then------------------------");
 
-        package excelHandling;
 
-import java.io.FileInputStream;
-import java.io.IOException;
-import org.apache.poi.ss.usermodel.*;
-import org.apache.poi.EncryptedDocumentException;
 
 
 
 
             }
-        }
-    }
+
 }
