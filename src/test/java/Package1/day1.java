@@ -1,6 +1,7 @@
 package Package1;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
@@ -13,7 +14,13 @@ public class day1 {
         driver.get("https://www.googlr.com/");
         driver.quit();
 
-        System.out.println("------------Priyanka------------------------");
+        System.out.println("-------------Mohit changes-----------------------");
 
-    }
+
+
+
+
+
+            }
+
 }
