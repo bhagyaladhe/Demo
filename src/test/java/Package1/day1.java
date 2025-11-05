@@ -14,7 +14,7 @@ public class day1 {
         driver.get("https://www.googlr.com/");
         driver.quit();
         driver.getTitle();
-        System.out.println("-------------Mohit changes-----------------------");
+        System.out.println("-------------Mohit-----------------------");
 
 
 
